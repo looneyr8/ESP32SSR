@@ -20,3 +20,10 @@ It utilises the following components
 
 4 x 160 Ohm 1/4 Watt Resistors - Dependent on LED Type
 
+Files -
+
+ESP32SSR-Circuit-Diagram.jpg - V1.0 Circuit Diagram
+
+ESP32SSR.rar - Gerber Files
+
+ESP32SSR.jpg - 3D Render of Circuit Board
