@@ -1,5 +1,5 @@
 # ESP32SSR V1.0
-ESP32 Solid State Relay PCB Devolpement
+ESP32 Solid State Relay PCB Devolpment
 
 This board was created intially for use with an ESP32 in mind but can also be used with Raspberry Pi boards with the correct configuration.
 
