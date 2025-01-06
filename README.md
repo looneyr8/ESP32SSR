@@ -27,3 +27,9 @@ ESP32SSR-Circuit-Diagram.jpg - V1.0 Circuit Diagram
 ESP32SSR.rar - Gerber Files
 
 ESP32SSR.jpg - 3D Render of Circuit Board
+
+**Potential Changes in V1.1**
+
+- Move SSR to back of PCB allowing for shrinking of the PCB
+
+- Change both LED & Resistors to Surface mount
