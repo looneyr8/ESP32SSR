@@ -37,5 +37,5 @@ media-3322539.pdf - CPC1017N Datasheet
 **Potential Changes in V1.1**
 
 - Move SSR to back of PCB allowing for shrinking of the PCB
-
 - Change both LED & Resistors to Surface mount
+- Add base resistor to transistor to protect I/O pin of ESP
